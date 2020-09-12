@@ -1,0 +1,7 @@
+{
+  "name": "web-serverExpress",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Wilson Queiroz Rocha",
+  "license": "MIT"
+}
